@@ -302,6 +302,14 @@ class LanguagesGC {
         'rejectBtnText': 'Откажи',
         'manageText': 'Настрой бисквитките'
       },
+      ca: {
+        'bannerHeading': 'Ús de galetes',
+        'bannerDescription': 'Fem servir galetes pròpies i de terceres parts per a analitzar el trànsit del lloc web i personalitzar-ne el contingut.',
+        'bannerLinkText': 'Més informació sobre les galetes',
+        'acceptBtnText': 'Accepta les galetes',
+        'rejectBtnText': 'Rebutja-les',
+        'manageText': 'Galetes'
+      },
       de: {
         'bannerHeading': 'Verwendung von Cookies',
         'bannerDescription': 'Wir nutzen Eigene und Cookies Dritter um Inhalte zu personalisieren und Surfverhalten zu analysieren.',
